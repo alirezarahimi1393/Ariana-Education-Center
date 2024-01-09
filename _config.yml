@@ -11,7 +11,7 @@ title                    : "Ariana Education Center"
 title_separator          : "-"
 name                     : &name "Ali Reza Rahimi"
 description              : &description "personal description"
-url                      : https://Ariana-Education-Center.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ariana Education Center"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "...............
+  
+  In establishing an education center for Afghan refugee children and teenagers, our core mission is empowerment through education. Our focus lies in imparting a diverse array of subjects, including English and Mathematics, to equip these young individuals with vital skills and knowledge. By providing a holistic curriculum, we aim to nurture their potential and offer them opportunities for growth and advancement, despite the challenges they face due to displacement. Our goal is to create a supportive learning environment that fosters academic excellence and empowers these youths to build a brighter future for themselves and their communities."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
